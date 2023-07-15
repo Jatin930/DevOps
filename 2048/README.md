@@ -32,7 +32,7 @@ Feel free to explore my containerized version of the 2048 game. Also you can vie
 ### Below are some screenshots I took while working on this project:
 <br>
 Creating Environment and Application with Elastic Beanstalk
-<br>
+<br><br>
 <img width="700" alt="Screen Shot 2023-07-14 at 11 59 36 PM" src="https://github.com/Jatin930/DevOps/assets/104586736/38ea93ff-faa4-4cec-b4ba-5fad629640a9">
 
 <img width="700" alt="Screen Shot 2023-07-04 at 9 31 08 PM" src="https://github.com/Jatin930/DevOps/assets/104586736/8272dd2c-4fc3-4be6-8f2f-042723f0d76f">
@@ -46,6 +46,7 @@ Configuring EC2 Instance
 <br>
 
 As you can see, I am not very good at this game
+<br><br>
 <img width="700" alt="Screen Shot 2023-07-14 at 11 53 10 PM" src="https://github.com/Jatin930/DevOps/assets/104586736/a6d87bb7-d09b-4a88-a42e-461b7d60f7c5">
 
 
