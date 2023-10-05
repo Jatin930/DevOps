@@ -1,6 +1,6 @@
 # **2048 Game Deployment on Elastic Beanstalk with Docker**
 
-## In this project, I successfully containerized the renowned 2048 game using Docker and deployed it to the Elastic Beanstalk service on AWS. This allowed for efficient and scalable deployment of the game while leveraging the benefits of containerization.
+## In this project, I successfully containerized the 2048 game using Docker and deployed it to the Elastic Beanstalk service on AWS. This allowed for efficient and scalable deployment of the game while leveraging the benefits of containerization.
 
 ## Technologies and Concepts Utilized
 _During this project, I gained valuable experience and knowledge in the following areas:_
